@@ -34,3 +34,4 @@ This project is a React Native implementation of the classic Tic-Tac-Toe game. I
 - **`app.json`**: Configuration file for the Expo project.
 
 ## Demonstration Video
+[![Tic-Tac-Toe Demo](https://img.youtube.com/vi/5Mbs9T8fREA/0.jpg)](https://youtu.be/5Mbs9T8fREA)
